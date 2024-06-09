@@ -63,7 +63,7 @@ char *_converter(unsigned int num, const int BASE)
 
 char *convert(int num, const int BASE)
 {
-	// Check if input is negative values
+	// Check if num is negative value
 	if (num < 0)
 		return "Not Available";
 	return _converter(num, BASE);
