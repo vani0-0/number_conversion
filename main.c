@@ -7,6 +7,7 @@
 #include "num_converter.h"
 #include <stdio.h>
 #include <stdlib.h>
+
 int main()
 {
 	int num_input;

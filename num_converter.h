@@ -1,7 +1,7 @@
 // NUMBER CONVERTER HEADER
 
 #ifndef __NUM_CONVERTER_H
-#define __NUM_CONVERTER_H
+#define __NUM_CONVERTER_H 1
 
 #define BINARY 2
 #define OCTAL 8
